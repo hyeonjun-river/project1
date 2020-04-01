@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    margin-top: 101px;
+    font-size: 30px;
+}
+
+h1 span:nth-child(1){
+    color : blue
+}
+
+.search-bar{
+    width : 500px;
+}
+
+.search-button{
+    margin-left: 10px;
+}
